@@ -1,0 +1,25 @@
+
+.home-container{
+    background-color: rgb(222, 224, 223) !important;
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    left: 0; 
+    justify-content: center;
+}
+
+.body_home{
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    height: 550px;
+    background-color: brown;
+    align-items: center;
+}
+
+.button{
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+}
